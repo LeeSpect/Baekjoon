@@ -7,5 +7,7 @@ if k+k*2+k*4 <= x:
     print((k+k*2+k*4)*1000)
 elif k+k*2+k/2 <= x:
     print(int(k+k*2+k/2)*1000)
-else:
+elif k+k/2+k/4 <= x:
     print(int(k+k/2+k/4)*1000)
+else:
+    print(0)
