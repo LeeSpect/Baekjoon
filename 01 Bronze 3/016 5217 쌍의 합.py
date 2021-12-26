@@ -11,6 +11,7 @@ for _ in range(n):
     print(f'Pairs for {k}: ', end ='')
     for i in range(len(data)):
         if i == len(data)-1:
-            print(data[i][0], data[i][1])
+            print(data[i][0], data[i][1], end = '')
         else:
             print(data[i][0], data[i][1], end = ', ')
+    print()
