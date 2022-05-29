@@ -1,5 +1,3 @@
-# 005 2547 사탕 선생 고창영.py
-
 n = int(input())
 
 for _ in range(n):
