@@ -1,5 +1,3 @@
-# 001 2490 윷놀이.py
-
 for _ in range(3):
     l = list(map(int, input().split()))
     c = l.count(0)
