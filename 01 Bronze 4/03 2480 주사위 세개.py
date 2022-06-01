@@ -1,5 +1,3 @@
-# 03 2480 주사위 세개.py
-
 L = list(map(int, input().split()))
 if L[0]==L[1]==L[2]:
     print(10000+L[0]*1000)
