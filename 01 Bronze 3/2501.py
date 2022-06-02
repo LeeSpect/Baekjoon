@@ -1,5 +1,3 @@
-# 002 2501 약수 구하기.py
-
 n,k = map(int, input().split())
 c = 0
 
