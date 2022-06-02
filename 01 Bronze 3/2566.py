@@ -1,5 +1,3 @@
-# 006 2566 최댓값.py
-
 m = 0; idx = 0; row = 0
 for i in range(9):
     l1 = list(map(int, input().split()))
