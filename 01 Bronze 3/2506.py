@@ -1,5 +1,3 @@
-# 003 2506 점수계산.py
-
 n = int(input())
 l = list(map(int, input().split()))
 c = 0; p = 0
