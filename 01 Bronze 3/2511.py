@@ -1,10 +1,7 @@
-# 004 2511 카드놀이.py
-
 la = list(map(int, input().split()))
 lb = list(map(int, input().split()))
 ap, bp = 0, 0
 s = ''
-
 for i in range(10):
     if la[i] > lb[i]:
         ap += 3
