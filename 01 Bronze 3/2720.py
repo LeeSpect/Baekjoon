@@ -1,5 +1,3 @@
-# 008 2720 세탁소 사장 동혁.py
-
 t = int(input())
 for _ in range(t):
     n = int(input())
