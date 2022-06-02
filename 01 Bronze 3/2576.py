@@ -1,5 +1,3 @@
-# 007 2576 홀수.py
-
 l = []
 for _ in range(7):
     n = int(input())
