@@ -1,5 +1,3 @@
-# 011 5073 삼각형과 세 변.py
-
 while True:
     l = list(map(int, input().split()))
     if sum(l) == 0: break
