@@ -1,5 +1,3 @@
-# 014 5101 Sequences.py
-
 while True:
     a,b,c = map(int, input().split())
     if a==b==c==0: break
