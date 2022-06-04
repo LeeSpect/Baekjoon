@@ -1,5 +1,3 @@
-# 012 5074 When Do We Finish?.py
-
 while True:
     x,y = map(str, input().split())
     if x == '00:00' and y == '00:00': break
