@@ -1,5 +1,3 @@
-# 013 5086 배수와 약수.py
-
 while True:
     a,b = map(int, input().split())
     if a==b==0: break
