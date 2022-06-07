@@ -1,5 +1,3 @@
-# 018 5235 Even Sum More Than Odd Sum.py
-
 import sys
 
 n = int(input())
