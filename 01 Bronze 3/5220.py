@@ -1,5 +1,3 @@
-# 017 5220 Error Detection.py
-
 t = int(input())
 for _ in range(t):
     a,b = map(int, input().split())
