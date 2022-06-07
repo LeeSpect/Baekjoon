@@ -1,5 +1,3 @@
-# 016 5217 쌍의 합.py
-
 n = int(input())
 for _ in range(n):
     k = int(input())
