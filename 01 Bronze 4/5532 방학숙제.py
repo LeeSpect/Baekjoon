@@ -1,5 +1,3 @@
-# 09 5532 방학숙제.py
-
 L = int(input())
 A = int(input())
 B = int(input())
