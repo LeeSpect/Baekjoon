@@ -3,7 +3,7 @@ from itertools import combinations
 
 rpos,cpos=[1,-1,0,0],[0,0,1,-1]
 
-def sol(G,N,house_inf, chicken_inf, combination):
+def sol(house_inf, chicken_inf, combination):
     mini=float('inf')
     for com in combination:
         wei=0
@@ -28,7 +28,7 @@ def main():
             elif G[i][j]==2:
                 chicken_inf.append((i,j))
     combination=list(combinations(chicken_inf,M))
-    sol(G,N,house_inf,chicken_inf,combination)
+    sol(house_inf,chicken_inf,combination)
 
 if __name__=='__main__':
     main()
