@@ -1,5 +1,3 @@
-# 12 5596 시험 점수.py
-
 Lmin = list(map(int, input().split()))
 Lman = list(map(int, input().split()))
 
