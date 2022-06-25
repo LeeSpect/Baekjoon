@@ -1,3 +1,5 @@
+import sys; input=sys.stdin.readline
+
 Lmin = list(map(int, input().split()))
 Lman = list(map(int, input().split()))
 
