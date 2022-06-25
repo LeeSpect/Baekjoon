@@ -1,5 +1,3 @@
-# 15 6764 Sounds fishy.py
-
 L = [int(input()) for i in range(4)]
 
 if max(L) == min(L):
