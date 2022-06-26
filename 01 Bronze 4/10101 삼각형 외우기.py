@@ -1,5 +1,3 @@
-# 23 10101 삼각형 외우기.py
-
 L = [int(input()) for i in range(3)]
 if sum(L) == 180:
     if min(L) == max(L):
