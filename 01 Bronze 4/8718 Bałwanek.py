@@ -1,5 +1,3 @@
-# 20 8718 Bałwanek.py
-
 # x리터의 눈이 내림
 # k리터의 눈으로 공을 만들었음
 x,k = map(int, input().split())
