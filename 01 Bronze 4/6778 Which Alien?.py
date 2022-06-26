@@ -1,5 +1,3 @@
-# 17 6778 Which Alien?.py
-
 a = int(input()); b = int(input())
 
 if a >= 3 and b <= 4:
