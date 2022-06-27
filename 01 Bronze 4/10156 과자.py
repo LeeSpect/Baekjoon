@@ -1,5 +1,3 @@
-# 24 10156 과자.py
-
 k,n,m = map(int, input().split())
 if k*n-m < 0:
     print(0)
