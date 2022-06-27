@@ -1,5 +1,3 @@
-# 28 10768 특별한 날.py 3:38
-
 m = int(input())
 d = int(input())
 if m - 2 < 0:
