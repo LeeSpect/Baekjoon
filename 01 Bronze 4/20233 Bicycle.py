@@ -1,7 +1,4 @@
-# 53 20233 Bicycle.py
-
 a = int(input()); x = int(input()); b = int(input()); y = int(input()); T = int(input())
-
 
 if T > 30:
     a += (T-30)*x*21
