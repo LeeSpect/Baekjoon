@@ -1,5 +1,3 @@
-# 10 5543 상근날드.py
-
 h = int(input())
 m = int(input())
 l = int(input())
