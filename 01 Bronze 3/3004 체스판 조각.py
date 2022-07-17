@@ -1,5 +1,3 @@
-# 07 3004 체스판 조각.py
-
 def odd(n):
     if n == 1:
         return 2
