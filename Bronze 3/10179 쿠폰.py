@@ -1,5 +1,3 @@
-# 26 10179 쿠폰.py 46:30
-
 import sys
 
 n = int(sys.stdin.readline())
