@@ -1,5 +1,3 @@
-# 31 11466 Alex Origami Squares.py
-
 l = list(map(int, input().split()))
 l.sort()
 
