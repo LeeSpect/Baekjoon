@@ -1,5 +1,3 @@
-# 27 10707 수도요금.py 24.53 6.88
-
 a = int(input())
 b = int(input())
 c = int(input())
