@@ -1,4 +1,5 @@
-import sys; input=sys.stdin.readline
+import sys
+input=sys.stdin.readline
 
 def correct_palindrome(nums,dp,S,E):
     if (S+E)%2:
